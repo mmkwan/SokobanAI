@@ -1,9 +1,3 @@
-# cs271-fall20-project
-CS271 Fall 2020 Project
-
-TeamName: FriendlyAI 
-
-Python version used: 3.8.2
 # Setup
 Setup a virtual environment
 
